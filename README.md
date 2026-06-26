@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>I’m vengeanceXgt — a tech enthusiast and budding software developer exploring the world of code and innovation.<br><br>- 🔭 Currently working on projects in C++ and Python<br>- 🌱 Learning data structures, data visualization, and AI concepts<br>- 👯 Looking to collaborate on cool projects in web apps, data dashboards, or AI tools<br>- 💬 Ask me about coding fundamentals, problem-solving, and turning ideas into prototype<br>- 📫 How to reach me: gangotrinathtripathi@gmail.com<br>- ⚡ Fun fact: I love diving into new tech topics!<br><br>Let’s build something amazing together!
+### Hi there 👋<br><br>I’m Gangotrinath Tripathi — a tech enthusiast and budding software developer exploring the world of code and innovation.<br><br>- 🔭 Currently working on projects in C++ and Python<br>- 🌱 Learning data structures, data visualization, and AI concepts<br>- 👯 Looking to collaborate on cool projects in web apps, data dashboards, or AI tools<br>- 💬 Ask me about coding fundamentals, problem-solving, and turning ideas into prototype<br>- 📫 How to reach me: gangotrinathtripathi@gmail.com<br>- ⚡ Fun fact: I love diving into new tech topics!<br><br>Let’s build something amazing together!
 
 
 ## 🌐 Socials:
